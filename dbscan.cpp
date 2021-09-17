@@ -1,5 +1,6 @@
 #include <nanoflann/nanoflann.hpp>
 
+#include <iterator>
 #include <vector>
 
 // And this is the "dataset to kd-tree" adaptor class:
